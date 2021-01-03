@@ -1,0 +1,27 @@
+.span img {
+
+    width: 360px;
+    height: 255px;
+}
+body{
+    text-align: center;
+    background-image: linear-gradient(cadetblue 0%, lightgreen 100%)
+}
+.span{
+    background-color: cadetblue;
+}
+h1{
+    font-family:fantasy;
+}
+h3{
+    font-family: fantasy;
+}
+
+#images_carousel img{
+    width: 550;
+    height: 470px;
+}
+p{
+    font-size: 30;
+    font-family: monospace;
+}
